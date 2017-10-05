@@ -4,3 +4,10 @@ F:\Work\.NET Course - Beginners\Lab 1\.NET-Course-Beginners-Lab-1\Lab1\Lab1.Cons
 F:\Work\.NET Course - Beginners\Lab 1\.NET-Course-Beginners-Lab-1\Lab1\Lab1.ConsoleApp\obj\Debug\Lab1.ConsoleApp.csprojResolveAssemblyReference.cache
 F:\Work\.NET Course - Beginners\Lab 1\.NET-Course-Beginners-Lab-1\Lab1\Lab1.ConsoleApp\obj\Debug\Lab1.ConsoleApp.exe
 F:\Work\.NET Course - Beginners\Lab 1\.NET-Course-Beginners-Lab-1\Lab1\Lab1.ConsoleApp\obj\Debug\Lab1.ConsoleApp.pdb
+C:\Users\evarvara\Documents\GitHub\.NET-Course-Beginners-Lab-1\Lab1\Lab1.ConsoleApp\bin\Debug\Lab1.ConsoleApp.exe.config
+C:\Users\evarvara\Documents\GitHub\.NET-Course-Beginners-Lab-1\Lab1\Lab1.ConsoleApp\bin\Debug\Lab1.ConsoleApp.exe
+C:\Users\evarvara\Documents\GitHub\.NET-Course-Beginners-Lab-1\Lab1\Lab1.ConsoleApp\bin\Debug\Lab1.ConsoleApp.pdb
+C:\Users\evarvara\Documents\GitHub\.NET-Course-Beginners-Lab-1\Lab1\Lab1.ConsoleApp\obj\Debug\Lab1.ConsoleApp.csprojResolveAssemblyReference.cache
+C:\Users\evarvara\Documents\GitHub\.NET-Course-Beginners-Lab-1\Lab1\Lab1.ConsoleApp\obj\Debug\Lab1.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\evarvara\Documents\GitHub\.NET-Course-Beginners-Lab-1\Lab1\Lab1.ConsoleApp\obj\Debug\Lab1.ConsoleApp.exe
+C:\Users\evarvara\Documents\GitHub\.NET-Course-Beginners-Lab-1\Lab1\Lab1.ConsoleApp\obj\Debug\Lab1.ConsoleApp.pdb

@@ -12,6 +12,8 @@ namespace Lab1.ConsoleApp
         {
             Console.WriteLine("Hello World");
             Console.ReadKey();
+
+            Console.WriteLine("Modificare");
         }
     }
 }
